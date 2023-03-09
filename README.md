@@ -6,12 +6,6 @@
   <a href="#-projeto">🖥️ Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">📝 License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://respected-patch-b99.notion.site/Ignite-Lab-Node-js-9438dba525b047e6bf17c4e4bf3ce298">📚 Anotações Notion</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://www.notion.so/Ignite-Lab-Node-js-9438dba525b047e6bf17c4e4bf3ce298">📚 Anotações Notion 🔒</a>
-</p>
-
-<p align="center">
-    <a href="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/e3af0f40-9e6b-40cb-8579-5ddef2a64135"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/e3af0f40-9e6b-40cb-8579-5ddef2a64135.svg" alt="wakatime"></a>
 </p>
 
 ## 💻 Projeto
